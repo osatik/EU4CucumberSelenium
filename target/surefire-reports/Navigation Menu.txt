@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: Navigation Menu
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.18 s <<< FAILURE! - in Navigation Menu
+Navigating Fleet -- Vehicles(Navigation Menu)  Time elapsed: 0.18 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Your OS doesn't support Safari
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0F0MCFH', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: Driver
+
+Navigating Fleet -- Vehicles(Navigation Menu)  Time elapsed: 0 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Your OS doesn't support Safari
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0F0MCFH', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: Driver
+

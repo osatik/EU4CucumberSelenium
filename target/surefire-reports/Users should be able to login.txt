@@ -1,0 +1,46 @@
+-------------------------------------------------------------------------------
+Test set: Users should be able to login
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 6, Skipped: 0, Time elapsed: 0.188 s <<< FAILURE! - in Users should be able to login
+Login as a driver(Users should be able to login)  Time elapsed: 0.181 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Your OS doesn't support Safari
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0F0MCFH', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: Driver
+
+Login as a driver(Users should be able to login)  Time elapsed: 0 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Your OS doesn't support Safari
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0F0MCFH', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: Driver
+
+Login as a sales manager(Users should be able to login)  Time elapsed: 0.004 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Your OS doesn't support Safari
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0F0MCFH', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: Driver
+
+Login as a sales manager(Users should be able to login)  Time elapsed: 0 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Your OS doesn't support Safari
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0F0MCFH', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: Driver
+
+Login as a store manager(Users should be able to login)  Time elapsed: 0.003 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Your OS doesn't support Safari
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0F0MCFH', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: Driver
+
+Login as a store manager(Users should be able to login)  Time elapsed: 0 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Your OS doesn't support Safari
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0F0MCFH', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: Driver
+
